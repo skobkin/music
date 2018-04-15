@@ -3,6 +3,7 @@ In this repository you can find some of my music (if you can call it so) records
 
 # License
 [![Creative Commons BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 All my records are covered by CC-BY license except those which are not writen by me.
 
 # Rendered music
