@@ -1,0 +1,8 @@
+# Reaper
+# waveform cache files
+*.reapeaks
+# project backup files
+*.rpp-bak
+
+# Rendered MP3 files temporary directory
+/tmp
