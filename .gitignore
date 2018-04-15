@@ -6,3 +6,7 @@
 
 # Rendered MP3 files temporary directory
 /tmp
+
+# Old directories with missing sources and FL Studio project files
+/2015
+/2014
