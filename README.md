@@ -20,3 +20,36 @@ Common requirements list (does not cover all records):
 * [Cherry Electric Bass](https://www.orangetreesamples.com/products/cherry-electric-bass) (Kontakt 5 bass guitar library)
 * other Kontakt 5 libraries (per project basis)
 * [Waves CLA](https://www.waves.com/bundles/chris-lord-alge-signature-series) (Plugins for guitar, vocals and other instruments mixing)
+* [iZotope Ozone](https://www.izotope.com/en/products/ozone.html)
+* [FabFilter](https://www.fabfilter.com)
+
+# Used instruments
+
+Guitars:
+
+* [Cort X-1](https://www.cortguitarsshop.ru/catalog/electric-guitar/x-1-bks.html)
+* [Baton Rouge AR21C/ACE](https://www.batonrougeguitars.com/guitars/auditorium/detail/ga/product/ar21cace-150023.html)
+* [YAMAHA TRBX174 RM](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_basses/trbx/200series.html)
+
+Microphones:
+
+* [Samson Go Mic](http://www.samsontech.com/samson/products/microphones/usb-microphones/gomic/)
+* [sE Electronics X1s](https://www.seelectronics.com/se-microphones/se-x1-series-microphones)
+* [sE Electronics 4400a](https://www.seelectronics.com/se4400a-mic)
+* [Shure SM57](https://www.shure.com/en-US/products/microphones/sm57)
+
+MIDI Keyboard:
+
+* [M-Audio Keystation 61es](https://m-audio.com/products/view/keystation-61es)
+
+Audio Interface:
+
+* [Focusrite Scarlett 2i2 2dn gen](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2)
+* [Focusrite Scarlett 18i20 3rd gen](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-18i20)
+* [Zoom H5](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h5/)
+
+Headphones/Monitoring:
+
+* [Axelvox HD242](http://www.axelvox.ru/products/axelvox_hd242/)
+* [Audio-Technica ATH-M50xBN](https://www.audio-technica.com/en-us/ath-m50xbt)
+* [KRK RP7G4](https://www.krkmusic.com/ROKIT-Powered-G4-Studio-Monitors)
