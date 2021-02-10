@@ -20,8 +20,8 @@ Common requirements list (does not cover all records):
 * [Cherry Electric Bass](https://www.orangetreesamples.com/products/cherry-electric-bass) (Kontakt 5 bass guitar library)
 * other Kontakt 5 libraries (per project basis)
 * [Waves CLA](https://www.waves.com/bundles/chris-lord-alge-signature-series) (Plugins for guitar, vocals and other instruments mixing)
-* [iZotope Ozone](https://www.izotope.com/en/products/ozone.html)
-* [FabFilter](https://www.fabfilter.com)
+* [iZotope Ozone](https://www.izotope.com/en/products/ozone.html) (Limiter, Exciter, etc)
+* [FabFilter](https://www.fabfilter.com) (Equalizer, Compressor, etc)
 
 # Used instruments
 
