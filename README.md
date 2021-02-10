@@ -30,6 +30,7 @@ Guitars:
 * [Cort X-1](https://www.cortguitarsshop.ru/catalog/electric-guitar/x-1-bks.html)
 * [Baton Rouge AR21C/ACE](https://www.batonrougeguitars.com/guitars/auditorium/detail/ga/product/ar21cace-150023.html)
 * [YAMAHA TRBX174 RM](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_basses/trbx/200series.html)
+* [Cremona (Strunal) 4771o](http://onas.strunalschonbach.com/4771o)
 
 Microphones:
 
