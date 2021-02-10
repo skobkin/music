@@ -3,6 +3,8 @@
 *.reapeaks
 # project backup files
 *.rpp-bak
+# project undo files
+*.rpp-UNDO
 
 # Rendered MP3 files temporary directory
 /tmp
